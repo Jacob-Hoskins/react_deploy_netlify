@@ -8,6 +8,7 @@ function Nav() {
             <NavMenu>
                 <a href="#"><span>VIDEOS</span></a>
                 <a href="#"><span>ARTICLES</span></a>
+                <a href="#"><span>PROJECTS</span></a>
                 <a href="#"><span>SOCIAL</span></a>
             </NavMenu>
 
