@@ -36,5 +36,3 @@ const NavMenu = styled.div`
     }
 
 `
-
-//test
